@@ -206,7 +206,7 @@
 - [Работа с текстом](skills/self-improvement/text.md)
 
 ### Тайм-менеджмент
-- Постановка личных целей
+- [Постановка личных целей](skills/self-improvement/goal-setting.md)
 - [Управление временем](skills/self-improvement/time-management.md)
 - Управление приоритетами
 <!--roadmap.mm table of contents end-->
